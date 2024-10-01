@@ -1,4 +1,3 @@
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {faLinkedin, faFacebook, faGithub, faDiscord, faInstagram, faTwitter} from "@fortawesome/free-brands-svg-icons"
 import { faFacebookF } from "@fortawesome/free-brands-svg-icons/faFacebookF";
 import { faLinkedinIn } from "@fortawesome/free-brands-svg-icons/faLinkedinIn";
