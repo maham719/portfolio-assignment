@@ -4,7 +4,7 @@ export default function Home() {
     <div className="porfolio-container flex flex-col justify-center items-center">
         <div className=" flex justify-evenly items-center min-h-screen  container  ">
           <div className="intro ">
-          <p className="text-2xl ">Hi , i&#39;m</p>
+          <p className="text-2xl ">Hi , i'm</p>
           <h1>Syeda Maham Amjad</h1>
           
          
