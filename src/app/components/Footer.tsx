@@ -1,4 +1,5 @@
-import {faLinkedin, faFacebook, faGithub, faDiscord, faInstagram, faTwitter} from "@fortawesome/free-brands-svg-icons"
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faGithub, faDiscord, faInstagram} from "@fortawesome/free-brands-svg-icons"
 import { faFacebookF } from "@fortawesome/free-brands-svg-icons/faFacebookF";
 import { faLinkedinIn } from "@fortawesome/free-brands-svg-icons/faLinkedinIn";
 export default function Footer(){
