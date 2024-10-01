@@ -1,5 +1,4 @@
-'use client'
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+
 export default function Home() {
   return (
     <div className="porfolio-container flex flex-col justify-center items-center">
