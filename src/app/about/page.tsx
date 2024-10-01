@@ -7,9 +7,9 @@ export default function About() {
       <div className="about">
         <p className="text-xl">
           
-          i'm a skilled individual with a 3-year diploma in Computer Information
+          i am a skilled individual with a 3-year diploma in Computer Information
           Technology (CIT) currently advancing my knowledge as a student in the
-          Gen AI course under GIAIC. I'm passionate about leveraging technology
+          Gen AI course under GIAIC. I am passionate about leveraging technology
           to solve problems and continuously enhancing my expertise in related
           fields.
         </p></div>
@@ -19,7 +19,7 @@ export default function About() {
               <b>Name:</b> Syeda Maham Amjad
               </p>
             <p>
-              <b>Date Of Birth:</b> 2nd August 1995{" "}
+              <b>Date Of Birth:</b> 2nd August 1995
             </p>
             </div>       
            
