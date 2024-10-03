@@ -476,6 +476,7 @@ input ,textarea{
 }
    .bio,.item{
     flex-direction:column;
+     padding:0.5rem
 }
 }
 @media screen and (min-width: 340px) and (max-width: 650px){
@@ -531,4 +532,5 @@ input ,textarea{
   }
   .bio,.item{
     flex-direction:column;
+    padding:0.5rem;
 }
