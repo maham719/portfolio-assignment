@@ -14,7 +14,7 @@ export default function About() {
           fields.
         </p></div>
         <div className="bio flex flex-col justify-between items-center gap-4 flex-wrap">
-         <div className="flex justify-evenly items-center w-full">
+         <div className="flex justify-evenly items-center w-full item">
             <p>
               <b>Name:</b> Syeda Maham Amjad
               </p>
@@ -23,7 +23,7 @@ export default function About() {
             </p>
             </div>       
            
-           <div className="flex justify-evenly items-center w-full">
+           <div className="flex justify-evenly items-center w-full item ">
             <p>
               <b>Qualification:</b> DAE (CIT)
             </p>
@@ -32,7 +32,7 @@ export default function About() {
             </p>
             </div>
           
-          <div className="flex justify-evenly items-center w-full">
+          <div className="flex justify-evenly items-center w-full item ">
             <p>
               <b>Email:</b> zohameer96@gmail.com
             </p>
