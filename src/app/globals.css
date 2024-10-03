@@ -533,4 +533,5 @@ input ,textarea{
   .bio,.item{
     flex-direction:column;
     padding:0.5rem;
+    }
 }
