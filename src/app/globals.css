@@ -474,6 +474,9 @@ input ,textarea{
   outline: none;
   padding-left: 1rem;
 }
+   .bio,.item{
+    flex-direction:column;
+}
 }
 @media screen and (min-width: 340px) and (max-width: 650px){
   .container {
@@ -526,4 +529,6 @@ input ,textarea{
     outline: none;
     padding-left: 1rem;
   }
+  .bio,.item{
+    flex-direction:column;
 }
