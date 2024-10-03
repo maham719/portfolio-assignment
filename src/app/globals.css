@@ -481,7 +481,7 @@ input ,textarea{
 }
 @media screen and (min-width: 340px) and (max-width: 650px){
   .container {
-    min-width: 100%x; 
+    min-width: 100%; 
     height: auto; 
     flex-direction: column-reverse;
     align-items: center;
